@@ -5,7 +5,7 @@ Sample project I did for interview assignment
 No sensitive nor proprietary info
 
 
-### What am I looking for
+### What you should look for
 
 See how I arch an app, including:
 
